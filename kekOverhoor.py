@@ -2,7 +2,8 @@
 import random, parseWoordenLijst, argparse
 
 def ask(dict, key):
-    #TODO: implement ask()
+    """Ask for the meaning of a word. Takes a dictionary and a dictionary key, which is also the word to be asked"""
+
     answer = raw_input(key+':')
     if answer == dict[key]:
         print 'goed\n'

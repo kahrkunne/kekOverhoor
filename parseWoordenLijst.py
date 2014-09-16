@@ -2,8 +2,8 @@
 import argparse, re
 
 def parse(filename):
-    # Parse arguments (in this case, just the filename)
-    
+   """Parse a word list file. Returns a dictionary"""
+
     # Get the data from the file
     with open(filename, 'r') as file:
         unstrippedData = file.read()
@@ -17,7 +17,7 @@ def parse(filename):
     # Define the regular expression for parsing the files
     parseRegex = re.compile(r"^FIB\t([^\t\n]+)\t([^\t\n]+)$")
     
-    # Do the thing
+    # Parse the word list, and turn it into a dictionary
     words = {}
     for line in data.split('\n'):
         match = parseRegex.match(line)
