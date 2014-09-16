@@ -2,7 +2,8 @@
 import argparse, re
 
 def parse(filename):
-   """Parse a word list file. Returns a dictionary"""
+   
+    """Parse a word list file. Returns a dictionary"""
 
     # Get the data from the file
     with open(filename, 'r') as file:
