@@ -1,0 +1,121 @@
+FIB	loquor 	ik spreek, loqui
+FIB	functus sum	ik heb verricht, fungi
+FIB	locuta sum	ik heb gesproken, loqui
+FIB	fungi + ?	verrichten + abl
+FIB	frui + ?	genieten + abl
+FIB	imperaturus	zullende opdragen, imperare
+FIB	questus sum	ik heb geklaagd, queri
+FIB	reverteris	jij keert terug, reverti
+FIB	traducerem	ik zette over, con, traducere
+FIB	sequimur	wij volgen, sequi
+FIB	regressus eram	ik was teruggekeerd, regredi
+FIB	ornavero	jij zult hebben versierd, ornare
+FIB	regredi	terugkeren
+FIB	captivus	krijgsgevangene
+FIB	cum + coni, 3x	toen, omdat, hoewel
+FIB	usus sum	ik heb gebruikt, uti
+FIB	reversus sim	ik ben teruggekeerd, con, reverti
+FIB	uti + ?	gebruiken + abl
+FIB	acies 5	slagorde
+FIB	proximus	dichtstbij
+FIB	hortabaris	jij spoorde aan, hortari
+FIB	profectus sum	ik ben vertrokken, proficisci
+FIB	proficisci	vertrekken
+FIB	vinctus	geboeid, vincire
+FIB	vinciunt	zij boeien, vincire
+FIB	queror	ik klaag, queri
+FIB	instruxi	ik heb opgesteld, instruere
+FIB	aciem instruere	leger in slagorde opstellen
+FIB	mirari 2x	zich verbazen, bewonderen
+FIB	trans + ?	over + acc
+		
+		
+		
+FIB	melior	beter
+FIB	polliceri	beloven
+FIB	ipse, ipsa, ipsum	zelf
+FIB	passus sum	ik heb geleden, pati
+FIB	pollicitus sum	ik heb beloofd, polliceri
+FIB	ratus	menend
+FIB	reri	menen
+FIB	ratus sum	ik heb gemeend, reri
+FIB	poscere	eisen
+FIB	videtur mihi	het schijnt me goed toe
+FIB	videri	schijnen
+FIB	deferre	overbrengen
+FIB	detuli	ik heb overgebracht, deferre
+FIB	imperator, imperatoris 2x	veldheer, keizer
+FIB	metus 4	angst
+FIB	pateris	jij lijdt, pati
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+FIB	ulciscor	ik wreek me
+FIB	obviam it +?	hij gaat tegemoet + dat, obviam ire
+FIB	conspectus 4	aanblik
+FIB	imperium 2x	bevel, gezag
+FIB	conciliabo	ik zal voor me winnen, conciliare
+FIB	differre 2x	uitstellen, verschillen
+FIB	celebrabis	jij zult vieren, celebrare
+FIB	transferre	overbrengen
+FIB	potens, potentis 3x, +?	machtig, in bezit van, in staat tot + gen
+FIB	agere 3x	voeren, leiden, doen
+FIB	monere	waarschuwen
+FIB	monuero	ik zal gewaarschuwd hebben, monere
+FIB	nubere	trouwen
+FIB	nupsi	ik ben getrouwd, nubere
+FIB	distuli 2x	ik heb uitgesteld, ik heb verschild, differre
+FIB	transtulerim	ik heb overgebracht, con, transferre
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+FIB	vivere	leven
+FIB	deus	god
+FIB	hic	hier
+FIB	veniunt	zij komen, venire
+FIB	huc	hierheen
+FIB	umbra	schim
+FIB	nox, noctis	nacht
+FIB	obscurus	donker
+FIB	terra	aarde
+FIB	vivit	hij leeft, vivere
+FIB	ibi	daar
+FIB	habitare	wonen
+FIB	est	hij is, esse
+FIB	locus	plaats
+FIB	saepe	dikwijls
+FIB	rex, reges	koning
+FIB	et	en
+FIB	sunt	zij zijn, esse
+FIB	frater, fratres	broer
+FIB	non	niet
+FIB	semper	altijd
+FIB	esse	zijn
